@@ -7,7 +7,7 @@ Email: quangminhit94@gmail.com
 ### **Professional Summary**
 
 Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Proficient in both frontend and backend development, with a strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
-I am always powerful, confident, happy, gratitude, positive, action perfectly
+- I am always positive, confident, happy, gratitude, perfectly
 
 ---
 
@@ -23,12 +23,17 @@ I am always powerful, confident, happy, gratitude, positive, action perfectly
 ---
 
 ### **Professional Experiences**
-June 2023 - July 2024: probability statistics research(analyze successfully 4950 combinations), crypto analytic for trading, fail but always believe successful someday, bot trading.
+June 2023 - July 2024: 
+
+- Probability statistics research(analyze successfully 4950 combinations), 
+- crypto analytic for trading, fail but always believe sucessful someday.
 
 ---
 
 **JavaScript Developer**  
 **ATG Websites**  
+
+https://www.dealerwebsite.co.uk/all-vehicles/new-stock/
 
 *December 2021 - April 2022*
 - Developed and maintained web applications using Vue.js.  
@@ -49,6 +54,8 @@ June 2023 - July 2024: probability statistics research(analyze successfully 4950
 
 **JavaScript Developer**  
 **Kupu**  
+https://www.tairapromote.co.jp/kupu/kupu.html
+
 *2018 - 2020*  
 - Developed web applications using Polymer.  
 - Participated in project planning, time estimation, debugging, and progress reporting.
