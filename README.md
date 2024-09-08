@@ -1,12 +1,12 @@
 ### **Personal Infomation**
-**Nguyen Quang Minh**
+Name: Nguyen Quang Minh
 Email: quangminhit94@gmail.com
 
 ---
 
-### **Professional Summary**
+### **Summary**
 
-Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Proficient in both frontend and backend development, with a strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
+- Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Proficient in both frontend and backend development, with a strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 - I am always positive, confident, happy, gratitude, perfectly
 
 ---
@@ -23,27 +23,26 @@ Detail-oriented JavaScript Developer with extensive experience in building web a
 ---
 
 ### **Professional Experiences**
-June 2023 - July 2024: 
-
+## **June 2023 - July 2024:**
+### **Role:** JavaScript Developer
 - Probability statistics research(analyze successfully 4950 combinations), 
 - crypto analytic for trading, fail but always believe sucessful someday.
 
 ---
 
-**JavaScript Developer**  
-**ATG Websites**  
-
-https://www.dealerwebsite.co.uk/all-vehicles/new-stock/
-
-*December 2021 - April 2022*
+## **December 2021 - April 2022:**
+### **Role:** JavaScript Developer
+### **Project name:** ATG Websites 
+### **Website:** https://www.dealerwebsite.co.uk/all-vehicles/new-stock/
+### **Responsibility:**
 - Developed and maintained web applications using Vue.js.  
 - Implemented unit tests and automation tests using Jest and Cypress.  
 - Collaborated with team members to plan, estimate timelines, debug issues, and report progress.
 
 ---
 
-**JavaScript Developer**  
-**Career Path**  
+**Role:** JavaScript Developer
+**Project name:**  Career Path
 *2020 - 2021*  
 - Built independent web applications utilizing Vue.js, Node.js, and MongoDB.  
 - Enhanced application features and resolved bugs during deployment.  
