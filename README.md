@@ -78,9 +78,7 @@ quangminhit94@gmail.com
 
 ## Education
 
-Associate Degree in Information Technology
-FPT College, 2016  
-GPA 8.3
+Associate Degree in Information Technology from FPT College, 2016, GPA 8.3
 
 ---
 
